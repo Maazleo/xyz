@@ -1,12 +1,17 @@
 import 'dart:async';
+import 'package:firebase_core/firebase_core.dart';
+import 'package:flutter/foundation.dart';
 import 'package:flutter/material.dart';
 import 'dart:convert';
 import 'package:flutter/services.dart';
 import 'package:shared_preferences/shared_preferences.dart';
+import 'NewMovieScreen.dart';
 import 'detailmodal.dart';
 import 'my_list_page.dart';
 
-void main() {
+Future<void> main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  await Firebase.initializeApp(options: DefaultFirebaseOptions.currentPlatform);
   runApp(const PakiFlixApp());
 }
 
@@ -186,7 +191,7 @@ class _MyHomePageState extends State<MyHomePage> {
           ],
         ),
       ),
-      const Center(child: Text('Movies', style: TextStyle(color: Colors.white))),
+      // CreateMovieScreen(),
       const MyListPage(), // My List Page
     ];
 
@@ -229,6 +234,7 @@ class _MyHomePageState extends State<MyHomePage> {
           BottomNavigationBarItem(
             icon: Icon(Icons.home),
             label: 'Home',
+
           ),
           BottomNavigationBarItem(
             icon: Icon(Icons.movie),
@@ -245,4 +251,54 @@ class _MyHomePageState extends State<MyHomePage> {
       ),
     );
   }
+}
+
+
+
+
+class DefaultFirebaseOptions {
+  static FirebaseOptions get currentPlatform {
+
+    if (kIsWeb) {
+      throw UnsupportedError(
+        'DefaultFirebaseOptions have not been configured for windows - '
+            'you can reconfigure this by running the FlutterFire CLI again.',
+      );
+    }
+
+    switch (defaultTargetPlatform) {
+      case TargetPlatform.android:
+        return android;
+      case TargetPlatform.iOS:
+        return ios;
+      case TargetPlatform.macOS:
+        throw UnsupportedError(
+          'DefaultFirebaseOptions have not been configured for windows - '
+              'you can reconfigure this by running the FlutterFire CLI again.',
+        );
+      case TargetPlatform.windows:
+        throw UnsupportedError(
+          'DefaultFirebaseOptions have not been configured for windows - '
+              'you can reconfigure this by running the FlutterFire CLI again.',
+        );
+      case TargetPlatform.linux:
+        throw UnsupportedError(
+          'DefaultFirebaseOptions have not been configured for linux - '
+              'you can reconfigure this by running the FlutterFire CLI again.',
+        );
+      default:
+        throw UnsupportedError(
+          'DefaultFirebaseOptions are not supported for this platform.',
+        );
+    }
+  }
+
+  static const FirebaseOptions android = FirebaseOptions(
+      apiKey: "AIzaSyCyQylzHEE2xJDJ1r2jAa3BZHjfNGmwTJg",
+      appId: '1:1067481003172:android:a6d5849aadb9a5f077a231',
+      messagingSenderId: '1067481003172',
+      projectId: 'pakiflix-15d96',
+      storageBucket: 'construct-and-connect-app.appspot.com'
+  );
+
 }
