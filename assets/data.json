@@ -1,0 +1,14 @@
+{
+  "recent": [
+    {"title": "Recent Movie 1", "image": "assets/movie1.jpg"},
+    {"title": "Recent Movie 2", "image": "assets/movie2.jpg"}
+  ],
+  "movies": [
+    {"title": "Movie 1", "image": "assets/movie1.jpg"},
+    {"title": "Movie 2", "image": "assets/movie2.jpg"}
+  ],
+  "webSeries": [
+    {"title": "Web Series 1", "image": "assets/webseries1.jpg"},
+    {"title": "Web Series 2", "image": "assets/webseries2.jpg"}
+  ]
+}

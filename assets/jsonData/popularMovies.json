@@ -1,0 +1,85 @@
+{
+    "elements": [
+      {
+        "title": "Outer Banks",
+        "year": "2018",
+        "genre": "Drama",
+        "trailer": "Nathan Fillion, Alyssa Diaz, Richard T. Jones",
+        "img_link": "https://occ-0-3032-3466.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQIUWzFXipnpNQs2Z54AcjtymUj6Cpmkw74MFUT8zsGSKnNGuiRejbBzpjOhKSp6aviaGsMV3eA0aBe-hU-QiOfNs5d_hTUhK6DjANPa4vJfcF2LMmKnYLHo6Y4-i5A6n-nB.jpg?r=648",
+        "description": "On an island of haves and have-nots, teen John B enlists his three best friends to hunt for a legendary treasure linked to his father's disappearance."
+      },
+      {
+        "title": "The Witcher",
+        "year": "2018",
+        "genre": "Drama",
+        "trailer": "Nathan Fillion, Alyssa Diaz, Richard T. Jones",
+        "img_link": "https://occ-0-3032-3466.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABf5exow7YR19ou4F_Afma6lC9npbAZqCyzMa2cU0HVaz0mmeAQ5CkqLy_e8zNzjbZrbug44-W3LpYw4Ne-eVmcQD6n0VIJAw20tvFpphszMy_p5IiA-vBMtBr2n2BPbxuyml.jpg?r=23e",
+        "description": "Geralt of Rivia, a mutated monster-hunter for hire, journeys toward his destiny in a turbulent world where people often prove more wicked than beasts."
+      },
+      {
+        "title": "Marco Polo",
+        "year": "2018",
+        "genre": "Drama",
+        "trailer": "Nathan Fillion, Alyssa Diaz, Richard T. Jones",
+        "img_link": "https://occ-0-3032-3466.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABQeHx1u_NyDZGDj9C-DNX-wTL6XPn5E8N6Y9zvVPYJpLvMKQIAAXspMRinUBQjUL2RVvrjleB37zKBnzbSjB2n1Y6jDoA6UJ5CdwlbVmMc1SHq3GlZBRFu3MMaBE4bwYaFbZ.jpg?r=bfa",
+        "description": "Set in a world of greed, betrayal, sexual intrigue and rivalry, “Marco Polo” is based on the famed explorer’s adventures in Kublai Khan’s court."
+      },
+      {
+        "title": "The Tailor",
+        "year": "2018",
+        "genre": "Drama",
+        "trailer": "Nathan Fillion, Alyssa Diaz, Richard T. Jones",
+        "img_link": "https://occ-0-3032-3466.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABeasl0NjQd5f0zuJSlvSMLgw7U_jlpDu--Yy2jBsfg8HkD7L-yUGR8SeyMJI88YVUmX78iCm4ds47dVoqZUM_JmpHvGfwIEQM70sTJv4-x6o9ygXngeFMEsW0htnI7_PTZkb.jpg?r=f66",
+        "description": "A famous tailor begins to sew a wedding dress for his best friend’s fiancée – but all three have dark secrets that will soon upend their lives."
+      },
+      {
+        "title": "Crooks",
+        "year": "2018",
+        "genre": "Drama",
+        "trailer": "Nathan Fillion, Alyssa Diaz, Richard T. Jones",
+        "img_link": "https://occ-0-3032-3466.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABak9C7CmYGLf6oEv9WDeBxcmXm8_nrdt0ufCkGZSMutnpXG6vQsSaanD9hhyD-QwTEmPFx1BrjiMV-RRzyRf3tbNfD31prgJ8BMiVNdlop6rxFZy9S2p_zn0LErrHjxn-IrDf_269m4wx2GnnsdMSLGRwneye2NGdvgoABt-4lfJC-mpIqTJCv8vL91NvJwmWkMzLJ8wIADMQ3zWFk-H9oQgacgbNGNYBpTTOdZ2QK0dhpzuiot2o4F2ZusbL0VwkrgZSdkmOxp91JoN2KSoN3V4WIV-nMuoWKDfm6jI-mGEPnw9SEg1mrccIvNXUGTNvop_kqEG7pu-W52gDZWj_-rEUGcMRIt9pXAgQUbABwDdjE10peg.jpg?r=1fc",
+        "description": "A priceless coin puts rival gangs across Europe at odds, forcing a retired safecracker to team up with a two-bit gangster for one last heist."
+      },
+      {
+        "title": "The Crown",
+        "year": "2018",
+        "genre": "Drama",
+        "trailer": "Nathan Fillion, Alyssa Diaz, Richard T. Jones",
+        "img_link": "https://occ-0-3032-3466.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABaSMGPuPUDfc6l_t-QWv4ZLQ_0gK38ne168mjsP-FUSdnPu6FUCQyyQ0Q4bSstaY55d2cq9kpBQLbOwY3h8YVXnX5cEgxxi09WTq-_JhgKxaFKHMre_IMwad8WYkV1ALTIQV.jpg?r=8c1",
+        "description": "Inspired by real events, this fictional dramatization tells the story of Queen Elizabeth II and the political and personal events that shaped her reign."
+      },
+      {
+        "title": "Stranger Things",
+        "year": "2018",
+        "genre": "Drama",
+        "trailer": "Nathan Fillion, Alyssa Diaz, Richard T. Jones",
+        "img_link": "https://occ-0-3032-3466.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABc_QuOdHzJa9WwBiBlfEvpcFRKq9TAIgdJv0KoSilQZ8JMEsdCdQS4VGD6gwVg2CYCYNhTJIald5uVsXbMf-3QaF1k1fnFRbovQr6ddWUtkSOUzil_dtlD1wOIeD_pSI6pAx.jpg?r=c68",
+        "description": "When a young boy vanishes, a small town uncovers a mystery involving secret experiments, terrifying supernatural forces and one strange little girl."
+      },
+      {
+        "title": "Orange Is the New Black",
+        "year": "2018",
+        "genre": "Drama",
+        "trailer": "Nathan Fillion, Alyssa Diaz, Richard T. Jones",
+        "img_link": "https://occ-0-3032-3466.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABfs4Qp0Leur2wjS9jdBW3kTzXCDYS8hXcESFKlCpfsYbfO0DcyGSnquLepLE_q2Evh1vwG7sYEyAj8g3qUQh9bP1vm8RjvpGdBRdhdrvwUs36-2CcKb-j1CSY5AzD_1YGf4v.jpg?r=007",
+        "description": "When a past crime catches up with her, a privileged New Yorker ends up in a women's prison, where she quickly makes friends and foes."
+      },
+      {
+        "title": "Adventure Time",
+        "year": "2018",
+        "genre": "Drama",
+        "trailer": "Nathan Fillion, Alyssa Diaz, Richard T. Jones",
+        "img_link": "https://occ-0-3032-3466.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABdSme0G66ayKmmjXJiuP2hfl2QcfIQU9RnLFHCiizLqD-Ys-m89SHu4x_1JcTkrRA3LHdTsWSRWP1el7UAJD9d1puNBhjBh9fNQ.jpg?r=7bd",
+        "description": "Young Finn and his shape-shifting dog buddy, Jake, go on a series of surreal adventures as they journey through the postapocalyptic Land of Ooo."
+      },
+      {
+        "title": "Queen of the South",
+        "year": "2018",
+        "genre": "Drama",
+        "trailer": "Nathan Fillion, Alyssa Diaz, Richard T. Jones",
+        "img_link": "https://occ-0-3032-3466.1.nflxso.net/dnm/api/v6/Qs00mKCpRvrkl3HZAN5KwEL1kpE/AAAABV1oSGE66xJ2WGdghxBnp6DCfvqWEv89JGQx9--334Un3mx4fq6f_K7mf24uW-GeuUS9UN_aIri_kqOyeY1ipTwdip8sfT-DXNU.jpg?r=5d8",
+        "description": "Forced to work for a cartel that recently killed her boyfriend, Teresa relies on her street smarts, a loyal friend and a mysterious notebook to survive."
+      }
+    ]
+  }
+  

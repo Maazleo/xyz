@@ -1,0 +1,45 @@
+{
+    "elements": [
+      {
+        "title": "The Queen's Gambit",
+        "year": "2020",
+        "genre": "Drama",
+        "trailer": "Anya Taylor-Joy, Bill Camp, Marielle Heller",
+        "img_link": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/zU0htwkhNvBQdVSIKB9s6hgVeFK.jpg",
+        "description": "In a 1950s orphanage, a young girl reveals an astonishing talent for chess and begins an unlikely journey to stardom while grappling with addiction."
+      },
+      {
+        "title": "Griselda",
+        "year": "2024",
+        "genre": "Drama",
+        "trailer": "Sofía Vergara, Alberto Guerra, Christian Tappan",
+        "img_link": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/nhEtK1lJKb3kqBtDBDXynGr3hJL.jpg",
+        "description": "Inspired by real events, this fictional dramatization shows Griselda Blanco's journey from Medellín to becoming the Godmother of Miami's drug empire."
+      },
+      {
+        "title": "Wednesday",
+        "year": "2022",
+        "genre": "Fantasy",
+        "trailer": "Jenna Ortega, Gwendoline Christie, Riki Lindhome",
+        "img_link": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/9PFonBhy4cQy7Jz20NpMygczOkv.jpg",
+        "description": "Smart, sarcastic and a little dead inside, Wednesday Addams investigates a murder spree while making new friends — and foes — at Nevermore Academy."
+      },
+      {
+        "title": "Bridgerton",
+        "year": "2020",
+        "genre": "Drama",
+        "trailer": "Adjoa Andoh, Julie Andrews, Lorraine Ashbourne",
+        "img_link": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/luoKpgVwi1E5nQsi7W0UuKHu2Rq.jpg",
+        "description": "The eight close-knit siblings of the Bridgerton family look for love and happiness in London high society. Inspired by Julia Quinn's bestselling novels."
+      },
+      {
+        "title": "Narcos",
+        "year": "2015",
+        "genre": "Drama",
+        "trailer": "Wagner Moura, Pedro Pascal, Boyd Holbrook",
+        "img_link": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/rTmal9fDbwh5F0waol2hq35U4ah.jpg",
+        "description": "The true story of Colombia's infamously violent and powerful drug cartels fuels this gritty gangster drama series."
+      }
+    ]
+  }
+  
